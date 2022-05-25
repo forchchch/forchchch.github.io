@@ -1,2 +1,2 @@
-#The homepage for Hong Chen 
-##Click: [Hong Chen's Homepage](https://forchchch.github.io/)
+# Hong Chen's HomePage 
+## Click: [forchchch.github.io](https://forchchch.github.io/)
